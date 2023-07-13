@@ -1,6 +1,7 @@
  # Hacker's Haven - Learn Ethical Hacking
 
-![Hacker's Haven Logo](https://github.com/cyber-bytezz/LearnxD-01/assets/130319315/0c3630d8-6e82-4350-a308-cdb8c8db6f4c)
+![Hacker's Haven Logo](https://github.com/cyber-bytezz/LearnxD-01/assets/130319315/ca403496-ad14-4584-9ee2-e6950f9272e5)
+
 
 Welcome to Hacker's Haven, your ultimate destination to embark on a thrilling journey into the world of ethical hacking and cybersecurity!
 
@@ -37,4 +38,4 @@ For any inquiries or questions, please reach out to us at [email address]. We're
 
 Let's embark on this thrilling adventure together and become responsible digital defenders! Start your hacking journey with Hacker's Haven today!
 
-![Hacker's Haven Screenshot](https://github.com/cyber-bytezz/LearnxD-01/assets/130319315/d8562e98-c58c-4382-a87e-428566703eca)
+![Hacker's Haven Screenshot](https://github.com/cyber-bytezz/LearnxD-01/assets/130319315/285abe86-a526-4e1c-949c-408c13e8d449)
